@@ -1,0 +1,130 @@
+body { 
+	position: relative;
+	background-color: bisque;
+}
+
+.a {
+	font-family:'Sarina';
+	font-size: 25px;
+	color: whitesmoke;
+	z-index: 10;
+	position: relative;
+	top: 150px;
+	left: 10px;
+}
+.jk{
+	font-family:'Sarina';
+	font-size: 25px;
+	color: black;
+	z-index: 2;
+	position: relative;
+}
+.titleb{
+	position: relative;
+	top: 30px;
+	right: -12px;
+}
+.ab {
+	font-family:'Sarina';
+	font-size: 35px;
+	color: whitesmoke;
+	z-index: 10;
+	position: relative;
+	top: 150px;
+	left: 10px;
+}
+.er{
+	font-family:'Sarina';
+	font-size: 35px;
+	color: black;
+	z-index: 2;
+	position: relative;
+}
+
+.b {
+	font-family: 'Bellota Text';
+	color: black;
+	z-index: 9;
+}
+
+.c {
+	font-family: 'Bellota Text';
+	position: relative;
+	width: 350px;
+	top: 30px;
+	left: 25px;
+}
+
+.headerpic {
+	position: absolute;
+	z-index: -10;
+	top: -50px;
+	left: -15px;
+	width: 200px;
+}
+
+.ba{
+	font-family: 'Bellota Text';
+	float: right;
+	position: relative;
+	top: 0px;
+	right: 15px;
+}
+
+.step1pic{
+	position: relative;
+	top: 200px;
+}
+.bd{
+	font-family: 'Bellota Text';
+	position: relative;
+	width: 200px;
+	left: 215px;
+	top: 30px;
+}
+.step2pic{
+	float: right;
+	position: relative;
+	top: 0px;
+}
+.bf{
+	font-family: 'Bellota Text';
+	float: right;
+	position: relative;
+	width: 200px;
+	text-align: right;
+	top: 50px;
+	margin-right: 15px;
+}
+.step3pic{
+	position: relative;
+	top: 200px;
+}
+.ft{
+	font-family: 'Bellota Text';
+	position: relative;
+	width: 200px;
+	left: 215px;
+	top: 30px;
+}
+.step4pic{
+	float: right;
+	position: relative;
+	top: 25px;
+}
+.ty{
+	font-family: 'Bellota Text';
+	float: right;
+	position: relative;
+	width: 200px;
+	text-align: right;
+	margin-right: 15px;
+	top: 25px;
+}
+
+.rg{
+	font-family: 'Bellota Text';
+	position: relative;
+	width: 300px;
+	top: 150px;
+}
